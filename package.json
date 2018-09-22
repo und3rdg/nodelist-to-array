@@ -1,0 +1,26 @@
+{
+  "name": "nodelist-to-array",
+  "version": "1.0.0",
+  "description": "querySelector to array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/und3rdg/nodelist-to-array.git"
+  },
+  "keywords": [
+    "convert",
+    "querySelectorAll",
+    "array",
+    "nodelist",
+    "node"
+  ],
+  "author": "und3rdg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/und3rdg/nodelist-to-array/issues"
+  },
+  "homepage": "https://github.com/und3rdg/nodelist-to-array#readme"
+}
