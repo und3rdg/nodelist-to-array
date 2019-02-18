@@ -2,7 +2,7 @@
   "name": "nodelist-to-array",
   "version": "1.0.1",
   "description": "querySelector to array",
-  "main": "nodeToArray.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
