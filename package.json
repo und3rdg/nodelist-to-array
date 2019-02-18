@@ -1,6 +1,6 @@
 {
   "name": "nodelist-to-array",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "querySelector to array",
   "main": "index.js",
   "scripts": {
